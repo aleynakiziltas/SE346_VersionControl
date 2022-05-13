@@ -10,4 +10,8 @@ int main()
 
 	printf("Ozge Tekin,987654,SE\n");
 
+	printf("Aleyna KIZILTAŞ,17243610014,ISE\n");
+
+
+
 }
